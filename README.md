@@ -1,0 +1,1 @@
+# fedora44-limpieza-agresiva.sh
